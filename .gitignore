@@ -18,3 +18,6 @@
 *.temp
 *.vcxproj
 *.vscode
+
+# Exclude generated directory
+generated
