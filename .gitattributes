@@ -5,3 +5,6 @@
 
 # Set the default behavior to automatically normalize line endings.
 * text=auto eol=lf
+
+# Denote binary files
+assets/* binary
