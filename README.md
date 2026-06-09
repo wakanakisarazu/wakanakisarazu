@@ -31,6 +31,6 @@ I am fascinated by how the machines around us **truly work**, and how we can use
 
 [![Discord](https://img.shields.io/badge/discord-@wakanakisarazu.work-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1507267658637246515)
 
-[![Website](https://img.shields.io/badge/website-https://wakanakisarazu.github.io-222222?style=flat&logo=githubpages&logoColor=white)](https://wakanakisarazu.github.io)
+[![Website](https://img.shields.io/badge/website-https://wakanakisarazu.uk-222222?style=flat&logo=githubpages&logoColor=white)](https://wakanakisarazu.uk)
 
-> **Soon to have my own domain!**
+> **Obtained my own domain :3**
