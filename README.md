@@ -21,8 +21,6 @@ I am fascinated by how the machines around us **truly work**, and how we can use
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)](https://webassembly.org)
 
-> **Computer Science student with a strong interest in operating system internals, software architecture and hardware behavior.**
-
 ---
 
 ### Find me online at:
